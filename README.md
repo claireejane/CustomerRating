@@ -28,4 +28,5 @@ This program reads customer ratings and data from a file, validates them, and th
    ```bash
    javac *.java
 2. Run the driver:
+   ```bash
    java CustomerRating
